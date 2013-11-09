@@ -7,7 +7,7 @@ Standards-Version: 3.6.0
 
 Package: osso-pdf-viewer
 Architecture: any
-Depends: osso-pdf-viewer-l10n-mr0 | osso-pdf-viewer-l10n-mr, ${shlibs:Depends}, ${misc:Depends}, ${launcher:Depends}
+Depends: osso-pdf-viewer-l10n-mr0 | osso-pdf-viewer-l10n-mr, ${shlibs:Depends}, ${misc:Depends}, ${launcher:Depends}, kernel-feature-errata-430973-workaround [armel]
 Description: OSSO PDF Viewer
  PDF Viewer application.
 

@@ -1,3 +1,9 @@
+osso-pdf-viewer (1.8.24-2+0cssu3+thumb0) unstable; urgency=low
+
+  * Thumb2 compile
+
+ -- Ivaylo Dimitrov <freemangordon@abv.bg>  Sat, 09 Nov 2013 10:45:17 +0200
+
 osso-pdf-viewer (1.8.24-2+0cssu3) unstable; urgency=low
 
   * Fixed bug #12187 and #12246.
